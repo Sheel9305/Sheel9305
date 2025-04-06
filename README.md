@@ -6,9 +6,9 @@
 <img align="right" alt="Coding" width="400" height="280" src="https://wallpapercg.com/media/ts_orig/18653.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheel9305&label=Profile%20views&color=0e75b6&style=flat" alt="sheel9305" /> </p>
 
-- 🌱 I’m currently learning **CSS, JavaScript**
+- 🌱 I’m currently learning **NodeJs,Express,DBMS**
 
-- 💬 Ask me about **C,Html,C++**
+- 💬 Ask me about **C,Html,C++,CSS,JS**
 
 - 📫 How to reach me **sheel9305@gmail.com**
 
