@@ -6,15 +6,15 @@
 <img align="right" alt="Coding" width="400" height="280" src="https://wallpapercg.com/media/ts_orig/18653.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheel9305&label=Profile%20views&color=0e75b6&style=flat" alt="sheel9305" /> </p>
 
-- 🌱 I’m currently learning **NodeJs,Express,DBMS**
+- 🌱 I’m currently learning **NodeJs,Express,REST**
 
-- 💬 Ask me about **C,Html,C++,CSS,JS**
+- 💬 Ask me about **C/C++,Html,CSS,JS,React,Redux,Typescript,DBMS**
 
 - 📫 How to reach me **sheel9305@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sheel shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheel shah" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sheel-shah9305/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheel shah" height="30" width="40" /></a>
 <a href="https://instagram.com/s.sheel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.sheel" height="30" width="40" /></a>
 </p>
 
@@ -28,4 +28,3 @@
 
 <p>&nbsp;<img align="left" height="320" width="450" src="https://github-readme-stats.vercel.app/api?username=sheel9305&show_icons=true&locale=en" alt="sheel9305" /></p>
 
-<p><img align="right" height="250" width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheel9305&" alt="Sheel9305" /></p>
